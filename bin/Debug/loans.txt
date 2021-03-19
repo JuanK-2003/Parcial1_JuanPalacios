@@ -1,0 +1,1 @@
+[{"StudentId":"123","StudentName":"Juan Palacios","BookId":"ABC123","BookTitle":"Caperucita Roja","LoanDate":"2021-03-02T13:05:49","ReturnDate":"2021-03-17T13:05:49"},{"StudentId":"456","StudentName":"Luis Pérez","BookId":"ABC456","BookTitle":"Los 3 mosqueteros","LoanDate":"2021-03-11T13:05:49","ReturnDate":"2021-03-31T13:05:49"}]

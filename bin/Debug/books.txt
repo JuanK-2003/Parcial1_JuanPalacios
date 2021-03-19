@@ -1,0 +1,1 @@
+[{"Id":"ABCD123","Title":"Los 3 mosqueteros","Author":"Juan","YearOfPublication":"2021-01-06T13:03:49"},{"Id":"ABC123","Title":"Caperucita Roja","Author":"Juan","YearOfPublication":"2000-06-07T13:05:49"},{"Id":"ABC456","Title":"Los 3 mosqueteros","Author":"Luis","YearOfPublication":"1959-11-19T13:06:42"}]
